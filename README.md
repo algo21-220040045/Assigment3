@@ -9,4 +9,11 @@
   
   In the copied research report, the methods involved are linear regression, pca regression, ridge regression and lasso regression. On this basis, I tried to use the quadratic programming method and achieved good results.
   
+  I optimized the length of the regression time window and some model parameters by traversing the search method, and finally concluded that ridge regression is the best method for comprehensive results.
+  
   ![image](https://user-images.githubusercontent.com/80148045/116342775-c2264680-a815-11eb-9eac-8e869d912935.png)
+  
+  ![image](https://user-images.githubusercontent.com/80148045/116342980-1d583900-a816-11eb-8ef0-32f3671e3b04.png)
+
+![image](https://user-images.githubusercontent.com/80148045/116343054-45e03300-a816-11eb-9438-a6ae60c69faa.png)
+
